@@ -1,4 +1,4 @@
-package com.xpand.challenge.configuration.dta;
+package com.xpand.challenge.dta;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
